@@ -94,4 +94,4 @@ See the [sample projects](Samples/Index.md) built with the ABP Framework.
 
 ### Want to Contribute?
 
-ABP is a community-driven open source project. See [the contribution guide](Contribution/Index.md) if you want to be a part of this project.
+ABP is a community-driven open source project. See [the contribution guide](Contribution/Index.md) if you want to be a part of this project.Yes, it is good.
